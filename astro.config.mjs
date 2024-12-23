@@ -6,7 +6,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	// site: 'https://IshuaWang.github.io',
 	// base: '/column-doc',
-	site: 'https://blog.wangyx.com',
+	// site: 'https://blog.wangyx.com',
 	base: '/columns',
 	// trailingSlash: 'always',
 	integrations: [
