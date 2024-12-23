@@ -4,8 +4,10 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://IshuaWang.github.io',
-	base: '/column-doc',
+	// site: 'https://IshuaWang.github.io',
+	// base: '/column-doc',
+	site: 'https://blog.wangyx.com',
+	base: '/columns',
 	integrations: [
 		starlight({
 			title: 'My Docs',
