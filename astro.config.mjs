@@ -7,7 +7,7 @@ export default defineConfig({
 	// site: 'https://IshuaWang.github.io',
 	// base: '/column-doc',
 	site: 'https://blog.wangyx.com/columns',
-	// base: '/columns',
+	base: '/columns',
 	integrations: [
 		starlight({
 			title: 'My Docs',
