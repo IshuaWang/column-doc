@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://IshuaWang.github.io',
-	base: 'course-doc',
+	base: 'column-doc',
 	integrations: [
 		starlight({
 			title: 'My Docs',
