@@ -8,7 +8,7 @@ export default defineConfig({
 	// base: '/column-doc',
 	site: 'https://blog.wangyx.com',
 	base: '/columns',
-	trailingSlash: 'always',
+	// trailingSlash: 'always',
 	integrations: [
 		starlight({
 			title: 'My Docs',
