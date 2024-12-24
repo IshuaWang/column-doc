@@ -12,6 +12,12 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'My Docs',
+			locales: {
+				root: {
+				  label: '简体中文',
+				  lang: 'zh-CN',
+				},
+			  },
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
